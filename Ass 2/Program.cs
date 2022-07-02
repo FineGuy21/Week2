@@ -12,6 +12,7 @@ namespace Ass_2
             Random number = new Random();
             char newgame;
             do {
+                Console.Clear();
                 gennum = number.Next(1, 4);
                 Console.WriteLine("Welcome to Rope Paper Scissor");
 
@@ -26,7 +27,7 @@ namespace Ass_2
           
                 choice = int.Parse(Console.ReadLine());
 
-                while (choice < 1 || choice > 3)
+                while (choice != 1 || choice != 2 || choice != 3)
                 {
                     Console.Write("\n Your Choice: ");
                     choice = int.Parse(Console.ReadLine());
@@ -79,7 +80,7 @@ namespace Ass_2
                     Console.Write("You And Me both picked Rock , So it's a Tie  ");
                 }
             }
-
+                
                 Console.WriteLine("\n \n Do You Want to Play again? \n Y/y to play \n Press 'any key to stop'  ");
                 newgame = char.Parse(Console.ReadLine());
         }while(newgame == 'Y' || newgame == 'y');
