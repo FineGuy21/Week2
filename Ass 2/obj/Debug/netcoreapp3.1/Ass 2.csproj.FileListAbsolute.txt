@@ -1,0 +1,14 @@
+C:\Users\21fin\source\repos\Ass 2\bin\Debug\netcoreapp3.1\Ass 2.exe
+C:\Users\21fin\source\repos\Ass 2\bin\Debug\netcoreapp3.1\Ass 2.deps.json
+C:\Users\21fin\source\repos\Ass 2\bin\Debug\netcoreapp3.1\Ass 2.runtimeconfig.json
+C:\Users\21fin\source\repos\Ass 2\bin\Debug\netcoreapp3.1\Ass 2.runtimeconfig.dev.json
+C:\Users\21fin\source\repos\Ass 2\bin\Debug\netcoreapp3.1\Ass 2.dll
+C:\Users\21fin\source\repos\Ass 2\bin\Debug\netcoreapp3.1\Ass 2.pdb
+C:\Users\21fin\source\repos\Ass 2\obj\Debug\netcoreapp3.1\Ass 2.csproj.AssemblyReference.cache
+C:\Users\21fin\source\repos\Ass 2\obj\Debug\netcoreapp3.1\Ass 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21fin\source\repos\Ass 2\obj\Debug\netcoreapp3.1\Ass 2.AssemblyInfoInputs.cache
+C:\Users\21fin\source\repos\Ass 2\obj\Debug\netcoreapp3.1\Ass 2.AssemblyInfo.cs
+C:\Users\21fin\source\repos\Ass 2\obj\Debug\netcoreapp3.1\Ass 2.csproj.CoreCompileInputs.cache
+C:\Users\21fin\source\repos\Ass 2\obj\Debug\netcoreapp3.1\Ass 2.dll
+C:\Users\21fin\source\repos\Ass 2\obj\Debug\netcoreapp3.1\Ass 2.pdb
+C:\Users\21fin\source\repos\Ass 2\obj\Debug\netcoreapp3.1\Ass 2.genruntimeconfig.cache
